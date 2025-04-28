@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+flask-cors
+joblib
+scikit-learn
+numpy
